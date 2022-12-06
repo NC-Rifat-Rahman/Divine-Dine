@@ -1,4 +1,5 @@
-<h1>Live Site</h1>
+<h1>This is a website to view a Resturants menu. It can be used as an advertisement to setup a business.</h1>
+<h2>Live Site</h2>
 https://gilded-rolypoly-f0865f.netlify.app/
 
 # Getting Started with Create React App
